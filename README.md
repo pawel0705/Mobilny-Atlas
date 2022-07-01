@@ -9,9 +9,9 @@ Aplikacja została napisana z wykorzystaniem pakietu Vuforia. Mapa została podz
 - Wyświetlenie zbioru podstawowych informacji o danym państwie
 
 ### Wymagania niefunkcjonalne
--Kraje odczytywane z mapy Europy
--10 krajów możliwych do detekcji (dla wersji demonstracyjnej)
--Aplikacja przeznaczona na telefony wspierające Vuforię
+- Kraje odczytywane z mapy Europy
+- 10 krajów możliwych do detekcji (dla wersji demonstracyjnej)
+- Aplikacja przeznaczona na telefony wspierające Vuforię
 
 ## Instalacja i uruchamianie
 
